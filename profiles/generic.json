@@ -1,0 +1,12 @@
+{
+  "name": "generic",
+  "description": "Provider- and embodiment-neutral recording/compaction profile.",
+  "hints": [],
+  "hint_notes": {},
+  "contracts": {},
+  "empty_slot_items": [],
+  "inventory_schema": {},
+  "claude_guidance": null,
+  "claude_guidance_version": null,
+  "rtdl_domain_reminder": null
+}
